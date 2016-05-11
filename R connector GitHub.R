@@ -10,9 +10,8 @@ library(RSiteCatalyst)
 library(xlsx)
 #library(httpuv)
  
-#KEY_NEW <- "94328000dd-mobilelife-r-connector"
-#SECRET_NEW <- "bbaffcc8adea85202d6e" 
-KEY_OLD <- "jpag:MobileLife"
+
+KEY_OLD <- ""
 SECRET_OLD <- "" 
 
 
