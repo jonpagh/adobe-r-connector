@@ -30,7 +30,7 @@ SCAuth(KEY_OLD, SECRET_OLD)
 
 suites <- GetReportSuites()
 
-sweetAF <- "mobilelifesundaylive" 
+sweetAF <- "" 
 
 evars <- GetEvars(sweetAF)
 props <- GetProps(sweetAF)
